@@ -3,7 +3,7 @@
   "description": "Customizable WhatsApp Bot",
   "repository": "https://github.com/dinuwah/QUEEN-HENTAI",
   "logo": "https://i.ibb.co/T1DqdYz/thumbnail.jpg",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot", "QUEEN HENTAI", "GURU-bot-md", "GURU-bot"],
+  "keywords": ["bot", "whatspp", "whatsapp-bot", "QUEEN HENTAI", "GURU-bot-md", "GURU-bot"],
   "stack": "container",
   "buildpacks": [
     {
